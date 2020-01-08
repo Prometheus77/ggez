@@ -6,6 +6,9 @@
 \usage{
 blank_x_axis(...)
 }
+\arguments{
+\item{...}{Additional arguments to pass to `theme()`. Defaults is none.}
+}
 \description{
 Remove the X axis and all markings from the plot
 }

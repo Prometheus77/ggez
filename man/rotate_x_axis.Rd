@@ -4,12 +4,10 @@
 \alias{rotate_x_axis}
 \title{Rotate x-axis text}
 \usage{
-rotate_x_axis(angle = 90, hjust = 1)
+rotate_x_axis(...)
 }
 \arguments{
-\item{angle}{Angle to rotate x-axis text}
-
-\item{hjust}{Horizontal justification}
+\item{...}{Arguments to pass to `element_text()`. Default is `angle = 90, hjust = 1`.}
 }
 \description{
 Utility to easily rotate x-axis text

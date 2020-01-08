@@ -2,6 +2,8 @@
 #'
 #' @description Remove the X axis and all markings from the plot
 #'
+#' @param ... Additional arguments to pass to `theme()`. Defaults is none.
+#'
 #' @export
 blank_x_axis = function(...)  {
   dots = list(...)

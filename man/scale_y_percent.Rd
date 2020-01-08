@@ -6,6 +6,9 @@
 \usage{
 scale_y_percent(...)
 }
+\arguments{
+\item{...}{Additional arguments to pass to `scale_y_continuous()`. Default is none.}
+}
 \description{
 Utility to easily convert y-axis to percentage scale
 }

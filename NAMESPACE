@@ -3,4 +3,8 @@
 export(blank_x_axis)
 export(blank_y_axis)
 export(rotate_x_axis)
+export(rotate_y_axis)
+export(scale_x_months)
+export(scale_x_percent)
+export(scale_y_months)
 export(scale_y_percent)
